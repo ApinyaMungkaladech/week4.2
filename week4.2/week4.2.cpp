@@ -7,7 +7,7 @@ int main() {
 		printf("%d ",n[i]);
 		x = x + n[i];
 	}
-	printf("\n%.3f", x/10);
+	printf("\nAverage Height is %.3f", x / 10);
 
 
 }
